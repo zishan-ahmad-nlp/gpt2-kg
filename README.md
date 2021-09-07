@@ -1,1 +1,1 @@
-# gpt2-kg
+# GPT2-KG
